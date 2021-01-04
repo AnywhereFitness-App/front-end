@@ -3,6 +3,7 @@
 Endpoints
 
 CLASSES:
+
 [GET] https://fitness-anywhere-app.herokuapp.com/api/classes
 returns all classes
 
@@ -19,6 +20,7 @@ edits class by id
 deletes class by id
 
 USERS:
+
 [GET] https://fitness-anywhere-app.herokuapp.com/api/users
 returns all users
 
